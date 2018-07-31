@@ -1,1 +1,1 @@
-# Working with Juyter Notebooks and PostgresSQL
+# Working with Jupyter Notebooks and PostgresSQL
